@@ -16,6 +16,10 @@ reproducible-quant-studies/
     reusable helpers can go here later
 ```
 
+## License
+
+Code in this repository is licensed under the Mozilla Public License 2.0. See `LICENSE`.
+
 ## Disclaimer
 
 These scripts are for learning and reference only. They are not financial advice, trading signals, or recommendations to buy or sell any security.
