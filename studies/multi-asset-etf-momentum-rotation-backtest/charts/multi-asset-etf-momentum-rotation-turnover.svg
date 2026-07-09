@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 341" role="img">
+<title>Total Turnover</title><desc>Sum of absolute daily weight changes; 5 bps scenario</desc>
+<style>text{font-family:Arial,sans-serif;fill:#0f172a}.a{font-size:12px;fill:#64748b}.l{font-size:13px}</style>
+<rect width="960" height="341" fill="white"/><text x="70" y="30" font-size="20" font-weight="700">Total Turnover</text>
+<text x="70" y="50" class="a">Sum of absolute daily weight changes; 5 bps scenario</text><text x="70" y="115" class="l">Top 1 momentum</text><rect x="220" y="95" width="600.0" height="30" fill="#0f766e"/><text x="830.0" y="115" class="l">195.0</text><text x="70" y="197" class="l">Top 3 momentum</text><rect x="220" y="177" width="311.7" height="30" fill="#2563eb"/><text x="541.7" y="197" class="l">101.3</text><text x="70" y="279" class="l">SPY buy and hold</text><rect x="220" y="259" width="3.1" height="30" fill="#334155"/><text x="233.1" y="279" class="l">1.0</text></svg>
