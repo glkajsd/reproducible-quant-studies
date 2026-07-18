@@ -1,5 +1,8 @@
 # SPY 200-Day Moving Average Signal Frequency Backtest
 
+Published article:
+[Daily vs Weekly vs Month-End SPY 200DMA Backtest](https://www.reproquant.com/studies/spy-200-day-moving-average-signal-frequency/).
+
 Research question:
 
 > How sensitive is the SPY 200-day moving average strategy to signal-check frequency?

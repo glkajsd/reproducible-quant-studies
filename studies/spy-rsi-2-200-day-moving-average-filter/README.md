@@ -1,5 +1,8 @@
 # SPY RSI(2) Backtest With a 200-Day Moving Average Filter
 
+Published article:
+[SPY RSI(2) Backtest With 200DMA Trend Filter](https://www.reproquant.com/studies/spy-rsi-2-200-day-moving-average-filter/).
+
 Research question:
 
 > Does a 200-day moving average trend filter improve a short-term SPY RSI(2) mean reversion strategy?

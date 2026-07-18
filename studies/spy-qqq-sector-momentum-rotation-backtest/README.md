@@ -5,6 +5,9 @@ with SPY buy and hold. It rotates only among SPY, QQQ, and older sector ETFs.
 It is not a stocks, bonds, gold, commodities, REITs, or international equities
 multi-asset rotation strategy.
 
+Published article:
+[ETF Momentum Rotation Backtest: SPY, QQQ, and Sector ETFs](https://www.reproquant.com/studies/spy-qqq-sector-momentum-rotation-backtest/).
+
 ## Research question
 
 What happens if a portfolio rotates monthly into the strongest ETF or strongest

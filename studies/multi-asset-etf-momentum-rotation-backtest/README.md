@@ -16,6 +16,9 @@ of TLT to reduce dependence on long-duration risk; DBC is used instead of PDBC
 for its longer history. These choices do not remove duration, roll-yield,
 fund-structure, or survivorship limitations.
 
+Published article:
+[Multi-Asset ETF Momentum Rotation Backtest in Python](https://www.reproquant.com/studies/multi-asset-etf-momentum-rotation-backtest/).
+
 ## Run
 
 ```bash
@@ -32,7 +35,7 @@ Outputs include summary, daily audit, and trade CSVs under `outputs/`, plus
 equity, drawdown, allocation, and turnover SVGs under `charts/`.
 
 `outputs/multi-asset-vs-sector-momentum-common-window.csv` rebases this study
-and the existing sector-rotation study to the shared 2006-08-07–2026-07-07
+and the existing sector-rotation study to the shared 2006-08-07 to 2026-07-07
 window. It reads the sibling study's cached ETF prices and recomputes sector
 Top 1 and Top 3 with the same drift, rebalance, turnover, delay, and cost
 accounting used here. It does not change that study or its original results.

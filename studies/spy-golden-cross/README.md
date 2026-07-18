@@ -2,6 +2,9 @@
 
 This study reproduces a classic 50/200 SMA golden-cross crossover rule on SPY in Python.
 
+Published article:
+[SPY Golden Cross Backtest in Python](https://www.reproquant.com/studies/spy-golden-cross/).
+
 ## Rule
 
 - Compute `SMA50[t]` and `SMA200[t]` from the adjusted close series.

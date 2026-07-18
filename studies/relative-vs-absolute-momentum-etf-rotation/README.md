@@ -20,6 +20,9 @@ target weight. If only two selected ETFs have positive momentum, the portfolio
 holds those two ETFs at one-third each and cash at one-third. The remaining ETF
 weights are not rescaled to 100%.
 
+Published article:
+[Relative vs Absolute Momentum in ETF Rotation](https://www.reproquant.com/studies/relative-vs-absolute-momentum-etf-rotation/).
+
 ## Run
 
 ```bash

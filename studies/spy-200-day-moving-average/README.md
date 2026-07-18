@@ -2,6 +2,9 @@
 
 This study reproduces a simple SPY 200-day moving-average rule in Python.
 
+Published article:
+[SPY 200-Day Moving Average Backtest in Python](https://www.reproquant.com/studies/spy-200-day-moving-average/).
+
 ## Rule
 
 - Compute `SMA200[t]` from the adjusted close series.
